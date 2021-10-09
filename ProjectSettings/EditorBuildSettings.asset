@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Practicas/Practica2_Manuel_Chavez.unity
     guid: a2d570bc16941ea42920d6586edbbcb8
+  - enabled: 1
+    path: Assets/Practicas/Practica3Parte1_Manuel_Chavez.unity
+    guid: 94ba391c75598f845bd9b6940547187d
   m_configObjects: {}
