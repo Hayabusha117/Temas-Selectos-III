@@ -12,7 +12,7 @@ public class CambiarMaterial : MonoBehaviour
    
 
     int materialCase = 1;
-
+   
     public void Boton_CambiarMaterial()
     {
         //Bucle para boton
@@ -68,6 +68,19 @@ public class CambiarMaterial : MonoBehaviour
             default:
                 break;
         }
+    }
+
+    void Update()
+    {
+        for (int i = 0; i < Input.touchCount; ++i)
+        {
+            if (Input.GetTouch(i).phase == TouchPhase.Began)
+            {
+                Boton_CambiarMaterial();
+            }
+        }
+
+
     }
 
 }
