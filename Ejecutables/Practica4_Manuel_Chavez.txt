@@ -1,0 +1,9 @@
+En el siguinete enlace lleva a una carpeta de drive 
+donde se encuentras 2 carptas más
+en la primera llamda Assets esta el video 360
+debido a que es la misma carpeta en la que se encontraba en el proyecto de Unity
+la segunda carpeta se llama Ejecutables es donde se encuentra el APK de la Práctica 4
+
+Link:
+
+https://drive.google.com/drive/folders/12NeZDT4xq0SRdihaNKtexyK-gJ1nSFV6?usp=sharing
