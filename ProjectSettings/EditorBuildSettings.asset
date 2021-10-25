@@ -5,19 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Practicas/Practica4_Manuel_Chavez.unity
     guid: 24582aa119c5d47439a9d89a104df9ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Practicas/P3Parte2_Manuel_Chavez.unity
     guid: 9b8d31b2b1b59334cb01a1f35a588d6a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Practicas/Practica3Parte1_Manuel_Chavez.unity
     guid: 94ba391c75598f845bd9b6940547187d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Practicas/Practica2_Manuel_Chavez.unity
     guid: a2d570bc16941ea42920d6586edbbcb8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Practicas/Practica1_Manuel_Chavez.unity
     guid: 7f962ae79342da442a5af581a9e9d96c
+  - enabled: 1
+    path: Assets/Practicas/Practica5_Manuel_Chavez.unity
+    guid: 87577aae663d3704f891ee1da2158924
   m_configObjects: {}
