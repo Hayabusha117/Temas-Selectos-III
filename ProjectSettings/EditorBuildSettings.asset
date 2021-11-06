@@ -20,7 +20,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Practicas/Practica1_Manuel_Chavez.unity
     guid: 7f962ae79342da442a5af581a9e9d96c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Practicas/Practica5_Manuel_Chavez.unity
     guid: 87577aae663d3704f891ee1da2158924
-  m_configObjects: {}
+  - enabled: 0
+    path: Assets/Practicas/Practica6_Manuel_Chavez.unity
+    guid: 00894f446946f4147b742b4c22097785
+  - enabled: 1
+    path: Assets/Practicas/Practica7_Manuel_Chavez.unity
+    guid: 84c50033d7febb54c83c478fa425ac23
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f03fb3f5a46d53f4ca7bc3235f66c219,
+      type: 2}
